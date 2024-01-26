@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: com.codeborne.selenide
+Implementation-Title: com.codeborne.selenide
+Implementation-Version: 7.0.4
+Implementation-Vendor: selenide.org
+
